@@ -1,10 +1,11 @@
-# GitUp - A Comprehensive Repository
 
-## Facts and Insights
+## Presentation on Tableau 
+
+## Backstory
 
 ### 1. Food Industry Analysis
 
-In recent times, there's a growing recognition that the food industry plays a significant role in producing a substantial volume of highly processed foods. This repository contains detailed analyses and insights based on a comprehensive dataset encompassing 50,000 food products. Dive into the data to unravel the intricacies of food processing and gain valuable insights into ingredient compositions, sugar, protein, and fat content.
+It's a familiar realization that many foods may not be optimal for our health, yet the clarity on what we can or should consume remains elusive. One intriguing observation is the absence of specific salt quantities in grams on nutrition labels, a standard practice for sugar and protein. This raises a curious question: why does salt, a crucial element in our diet, not receive the same detailed attention on nutritional lists? Unraveling this anomaly may lead to a deeper understanding of dietary choices and the potential impact on our well-being.
 
 ### 2. Food Analysis: Salt Content
 
@@ -50,7 +51,7 @@ Another striking observation is the prevalence of products with more than 10 ing
 
 <img width="1397" alt="Bildschirmfoto 2023-12-22 um 06 53 31" src="https://github.com/FE-3-79/python_health_ingredients/assets/145100963/7fd82187-4b40-455a-89aa-ff4d4a0527e3">
 
-The k-mmeans Clustering seeked out 3 categorey
+The k-means clustering algorithm has identified two distinct clusters, suggesting that there might not be any latent or hidden structures within the data. This outcome implies that the data points are relatively homogenous and can be effectively grouped into two separate categories based on the features considered. The absence of additional clusters indicates a straightforward and clear organization of data points, simplifying the interpretation of patterns within the dataset.
 
 <img width="1493" alt="Bildschirmfoto 2023-12-22 um 07 02 02" src="https://github.com/FE-3-79/python_health_ingredients/assets/145100963/0c9a4235-468d-41f8-b7da-4570f4da1355">
 
