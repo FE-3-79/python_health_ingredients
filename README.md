@@ -59,3 +59,7 @@ The k-means clustering algorithm has identified two distinct clusters, suggestin
 
 <img width="1283" alt="Bildschirmfoto 2023-12-22 um 07 08 59" src="https://github.com/FE-3-79/python_health_ingredients/assets/145100963/3dd4d7bb-2bae-40e3-8cf1-2792f9e28a04">
 
+The frequency of salt mentions across different product categories reveals which categories have the highest salt content, offering insights into dietary choices and helping consumers make informed decisions about their food intake.
+
+![sunburst_salt20231222_125114](https://github.com/FE-3-79/python_health_ingredients/assets/145100963/007220a2-2f3b-43ea-8c20-2b5e4eb5dddc)
+
