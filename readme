@@ -1,6 +1,38 @@
-## Background ¶
-The perception that the food industry is a major producer of highly processed foods has gained widespread acceptance. A detailed analysis of a comprehensive dataset containing 50,000 products reveals valuable insights into the extent of food processing. This dataset, cataloging ingredients and nutritional information, is a crucial tool for understanding the complex role of the food industry in the prevalence of processed foods. It enables informed decision-making about dietary habits and contributes to a deeper understanding of the impact of processed foods on health. Stakeholders can use this dataset to identify patterns and trends in processed foods, particularly in discussions about public health, nutrition education, and regulatory measures. In addressing concerns about diet-related diseases and obesity, the insights derived from this dataset play a significant role in ongoing discussions about the food industry's influence on our collective dietary habits. In essence, this dataset serves as a transparent, data-driven window into the world of processed foods, fostering informed conversations about our food supply and the intricate relationship between the food industry and the products available on our shelves.
+/* Resetting default margin and padding */
+body, h1, p {
+  margin: 0;
+  padding: 0;
+}
 
+/* Body styling */
+body {
+  font-family: 'Arial', sans-serif;
+  line-height: 1.6;
+  background-color: #f8f8f8;
+  color: #333;
+}
 
+/* Header styling */
+h1 {
+  color: #007bff;
+}
 
-@misc{GroceryDB, title={GroceryDB: Prevalence of Processed Food in Grocery Stores}, author={Babak Ravandi and Peter Mehler and Albert-László Barabási and Giulia Menichetti}, year={2022}, eprint={medRxiv:2022.04.23.22274217}, url = {https://www.medrxiv.org/content/10.1101/2022.04.23.22274217} }
+/* Paragraph styling */
+p {
+  margin-bottom: 1em;
+}
+
+/* Container styling */
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Footer styling */
+footer {
+  margin-top: 20px;
+  text-align: center;
+  font-size: 0.8em;
+  color: #777;
+}
