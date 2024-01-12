@@ -1,0 +1,189 @@
+category,processing_category,count
+prepared-meals-dishes,ultra processed,1760
+produce-beans-wf,minimal processed,1129
+cookies-biscuit,ultra processed,1051
+snacks-bars,ultra processed,949
+pastry-chocolate-candy,ultra processed,774
+snacks-mixes-crackers,ultra processed,621
+ice-cream-dessert,ultra processed,583
+bread,ultra processed,512
+snacks-chips,ultra processed,479
+rolls-buns-wraps,ultra processed,462
+soup-stew,ultra processed,461
+produce-packaged,processed,412
+cheese,minimal processed,408
+produce-packaged,minimal processed,403
+meat-packaged,ultra processed,400
+cheese,processed,397
+cakes,ultra processed,391
+pizza,ultra processed,367
+pastry-chocolate-candy,processed,342
+cereal,ultra processed,332
+dairy-yogurt-drink,high processed,325
+meat-poultry-wf,minimal processed,320
+dressings,ultra processed,283
+dairy-yogurt-drink,ultra processed,281
+sauce-all,ultra processed,280
+pastry-chocolate-candy,high processed,272
+snacks-mixes-crackers,high processed,262
+pastry-chocolate-candy,minimal processed,249
+meat-packaged,processed,241
+meat-packaged,high processed,238
+breakfast,ultra processed,233
+snacks-bars,processed,230
+snacks-bars,high processed,219
+drink-shakes-other,ultra processed,219
+muffins-bagels,ultra processed,218
+cereal,high processed,215
+nuts-seeds-wf,minimal processed,201
+dairy-yogurt-drink,processed,199
+snacks-chips,processed,192
+milk-milk-substitute,minimal processed,192
+sauce-all,high processed,188
+cereal,processed,183
+seafood,minimal processed,182
+sausage-bacon,high processed,178
+ice-cream-dessert,high processed,178
+mac-cheese,ultra processed,176
+drink-juice,processed,174
+snacks-dips-salsa,high processed,174
+snacks-chips,minimal processed,173
+produce-packaged,ultra processed,166
+cookies-biscuit,high processed,166
+snacks-mixes-crackers,processed,160
+produce-packaged,high processed,159
+sausage-bacon,processed,155
+snacks-chips,high processed,154
+sauce-all,processed,151
+snacks-dips-salsa,ultra processed,149
+spread-squeeze,processed,145
+dressings,high processed,139
+sausage-bacon,ultra processed,138
+prepared-meals-dishes,high processed,138
+culinary-ingredients,minimal processed,136
+coffee-beans-wf,minimal processed,135
+drink-juice,high processed,134
+snacks-nuts-seeds,processed,131
+pasta-noodles,minimal processed,131
+baking,minimal processed,128
+ice-cream-dessert,processed,127
+snacks-dips-salsa,processed,127
+drink-juice-wf,minimal processed,125
+salad,ultra processed,119
+baking,processed,118
+spices-seasoning,minimal processed,117
+soup-stew,high processed,116
+spread-squeeze,minimal processed,115
+cheese,ultra processed,112
+cheese,high processed,110
+milk-milk-substitute,high processed,110
+rice-grains-wf,minimal processed,106
+prepared-meals-dishes,processed,106
+jerky,ultra processed,104
+baking,ultra processed,103
+dressings,processed,102
+seafood-wf,minimal processed,100
+meat-packaged,minimal processed,99
+drink-juice,minimal processed,97
+drink-tea,processed,97
+eggs-wf,minimal processed,96
+seafood,ultra processed,96
+drink-coffee,processed,94
+drink-coffee,high processed,94
+cereal,minimal processed,93
+bread,processed,92
+pasta-noodles,processed,91
+snacks-nuts-seeds,minimal processed,91
+bread,high processed,90
+snacks-mixes-crackers,minimal processed,90
+dressings,minimal processed,89
+milk-milk-substitute,processed,89
+rolls-buns-wraps,processed,88
+jerky,high processed,81
+snacks-popcorn,processed,81
+drink-shakes-other,high processed,80
+snacks-nuts-seeds,ultra processed,79
+rolls-buns-wraps,high processed,74
+seafood,processed,73
+sauce-all,minimal processed,70
+drink-soft-energy-mixes,processed,70
+drink-soft-energy-mixes,ultra processed,69
+baby-food,processed,68
+snacks-nuts-seeds,high processed,65
+prepared-meals-dishes,minimal processed,64
+snacks-popcorn,minimal processed,62
+soup-stew,processed,62
+pudding-jello,high processed,60
+drink-shakes-other,processed,58
+culinary-ingredients,ultra processed,54
+drink-juice,ultra processed,54
+pudding-jello,ultra processed,51
+cookies-biscuit,processed,50
+jerky,processed,50
+snacks-bars,minimal processed,47
+spices-seasoning,processed,47
+drink-coffee,minimal processed,47
+rolls-buns-wraps,minimal processed,46
+pudding-jello,processed,45
+spices-seasoning,high processed,45
+baking,high processed,41
+spices-seasoning,ultra processed,41
+drink-soft-energy-mixes,high processed,39
+culinary-ingredients,high processed,39
+rice-grains-packaged,ultra processed,38
+snacks-popcorn,ultra processed,38
+drink-tea,minimal processed,36
+dairy-yogurt-drink,minimal processed,35
+drink-tea,high processed,33
+drink-soft-energy-mixes,minimal processed,33
+snacks-popcorn,high processed,32
+mac-cheese,high processed,31
+muffins-bagels,high processed,31
+breakfast,processed,31
+seafood,high processed,30
+baby-food,minimal processed,30
+spread-squeeze,ultra processed,30
+ice-cream-dessert,minimal processed,30
+rice-grains-packaged,high processed,30
+rice-grains-packaged,minimal processed,29
+culinary-ingredients,processed,29
+rice-grains-packaged,processed,28
+breakfast,high processed,28
+drink-water-wf,minimal processed,24
+baby-food,high processed,23
+spread-squeeze,high processed,21
+drink-coffee,ultra processed,21
+cakes,high processed,19
+pasta-noodles,high processed,19
+drink-shakes-other,minimal processed,18
+snacks-dips-salsa,minimal processed,18
+pasta-noodles,ultra processed,18
+cookies-biscuit,minimal processed,17
+milk-milk-substitute,ultra processed,17
+soup-stew,minimal processed,15
+sausage-bacon,minimal processed,14
+produce-beans-wf,processed,14
+produce-beans-wf,ultra processed,13
+drink-tea,ultra processed,13
+bread,minimal processed,13
+salad,high processed,12
+produce-beans-wf,high processed,12
+muffins-bagels,processed,9
+jerky,minimal processed,8
+pizza,high processed,7
+rice-grains-wf,processed,7
+eggs-wf,high processed,6
+cakes,processed,6
+salad,processed,5
+eggs-wf,processed,5
+baby-food,ultra processed,5
+muffins-bagels,minimal processed,4
+eggs-wf,ultra processed,4
+pudding-jello,minimal processed,3
+breakfast,minimal processed,3
+mac-cheese,processed,3
+mac-cheese,minimal processed,2
+drink-juice-wf,processed,2
+canned-goods,high processed,1
+nuts-seeds-wf,processed,1
+meat-poultry-wf,ultra processed,1
